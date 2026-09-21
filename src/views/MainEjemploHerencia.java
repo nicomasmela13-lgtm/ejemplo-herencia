@@ -5,6 +5,8 @@
 package views;
 
 import models.Alquiler;
+import models.BicicletaElectrica;
+import models.BicicletaMontana;
 
 /**
  *
@@ -20,6 +22,9 @@ public class MainEjemploHerencia {
         
         
         Alquiler [] arregloAlquileres=new Alquiler[2];
+        BicicletaElectrica objElectrica;
+        BicicletaMontana objMontana;
+                
                 
         
         
